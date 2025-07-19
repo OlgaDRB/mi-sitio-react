@@ -25,7 +25,8 @@ initial={{ opacity: 0, y: -20 }}
 animate={{ opacity: 1, y: 0 }}
 transition={{ duration: 1 }}
 >
-<h3 className="mb-4 text-center">Iniciar Sesión</h3>
+<h3 className="mb-4 text-center">Iniciar Sesión </h3>
+<h4>Hola desde Netlify con despliegue continuo</h4>
 <input
 className="form-control mb-3"
 placeholder="Usuario"
